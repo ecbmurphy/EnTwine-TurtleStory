@@ -3,7 +3,7 @@
 
 ## About
 
-Turtle Story is a game about a pet turtle and his wacky antics. It is used to ease coding-adverse humanities students into learning how to code. To incorporate this game into your digital humanities class, read the article "Turtle Story: The Irreverent Turtle Twine Game That Taught Humanists to Code," in _Entwine_. The general gist of the exercise is to have humanities students observe and describe the game mechanics after playing a few times, so that they have mastered how the game works before an instructor reveals and explains the syntax. 
+Turtle Story is a game about a pet turtle and his wacky antics. It is used to ease coding-adverse humanities students into learning how to code. To incorporate this game into your digital humanities class, read the chapter "Turtle Story: The Irreverent Turtle Twine Game That Taught Humanists to Code," in _EnTwine_. The general gist of the exercise is to have humanities students observe and describe the game mechanics after playing a few times, so that they have mastered how the game works before an instructor reveals and explains the syntax. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
